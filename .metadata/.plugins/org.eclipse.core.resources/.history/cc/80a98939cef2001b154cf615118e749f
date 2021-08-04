@@ -1,0 +1,5 @@
+package com.example.spingmongo.api.configurations;
+
+public class SecurityConfiguration {
+
+}

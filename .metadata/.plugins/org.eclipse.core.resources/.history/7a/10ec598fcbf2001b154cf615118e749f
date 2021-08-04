@@ -1,0 +1,10 @@
+package com.example.spingmongo.api.model;
+
+import org.springframework.data.annotation.Id;
+
+public class AuthenticationResponse {
+
+	
+	
+	
+}

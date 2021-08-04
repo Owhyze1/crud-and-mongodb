@@ -1,0 +1,5 @@
+package com.example.springmongo.api.resource;
+
+public class BookController {
+
+}

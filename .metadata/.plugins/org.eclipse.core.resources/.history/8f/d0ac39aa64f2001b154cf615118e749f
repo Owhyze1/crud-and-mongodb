@@ -1,0 +1,5 @@
+package com.example.spingmongo.api.model;
+
+public class Book {
+
+}

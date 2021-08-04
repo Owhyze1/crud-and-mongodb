@@ -1,0 +1,5 @@
+package com.example.springmongo.api.repository;
+
+public class BookRepository {
+
+}
